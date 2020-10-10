@@ -16,5 +16,4 @@ I'm always trying to grow and learn something new, i lose track of time when i'm
 
 Currently improving my Angular & JavaScript skills.
 
-
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+ # You can find me on <i class="ri-linkedin-box-fill"></i>
