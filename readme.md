@@ -15,3 +15,6 @@ I'm always trying to grow and learn something new, i lose track of time when i'm
 # What I'm Focusing on 💣
 
 Currently improving my Angular & JavaScript skills.
+
+
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
