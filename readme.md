@@ -16,4 +16,3 @@ I'm always trying to grow and learn something new, i lose track of time when i'm
 
 Currently improving my Angular & JavaScript skills.
 
- # You can find me on <i class="ri-linkedin-box-fill"></i>
